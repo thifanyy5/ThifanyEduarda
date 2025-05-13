@@ -20,8 +20,8 @@ Sou a **Thifany Eduarda**, apaixonada por Cozinhar. Estou aprendendo muitas rece
 ### Receitas que estou aprendendo
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Escondidinho de Frango" height="200" width="1000" src="https://www.tendaatacado.com.br/dicas/wp-content/uploads/2022/03/escondidinho-de-frango-interna.jpg">
-  <img align="center" alt="Bom Bom na Travessa de Uva" height="200" width="1000" src="https://akdelicatessen.com.br/wp-content/uploads/2021/12/bombom-travessa-receita-800x420.jpg">
+  <img align="center" alt="Escondidinho de Frango" height="300" width="1000" src="https://www.tendaatacado.com.br/dicas/wp-content/uploads/2022/03/escondidinho-de-frango-interna.jpg">
+  <img align="center" alt="Bom Bom na Travessa de Uva" height="300" width="1000" src="https://akdelicatessen.com.br/wp-content/uploads/2021/12/bombom-travessa-receita-800x420.jpg">
 </div>
 
 
